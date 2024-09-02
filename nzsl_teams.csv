@@ -1,0 +1,68 @@
+current_name,abbrev,team_colours,second_colour,orig_team_colours,orig_second_colour,backup_team_colours,backup_second_colour,champ_colour,prev_champ_colour,team_url
+Bay Olympic,BAY,#006637,white,black,white,NA,NA,#bdb76b,red,/wiki/Bay_Olympic
+Eastern Suburbs,EAS,white,black,#80263c,#6eb2de,NA,NA,#bdb76b,red,/wiki/Eastern_Suburbs_AFC
+Christchurch United,CHR,#263995,white,#87ceeb,white,NA,NA,#bdb76b,red,/wiki/Christchurch_United
+Mount Wellington,MWE,#e33c1c,#3c3c92,#FE9717,black,NA,NA,#bdb76b,red,/wiki/Uni-Mount_Bohemian_AFC
+Stop Out,STO,#d60d0d,#f7e307,#13268d,#fac50e,NA,NA,#bdb76b,red,/wiki/Stop_Out
+Gisborne City,GIS,#0381d9,white,#0000FF,#FF0000,NA,NA,#bdb76b,red,/wiki/Gisborne_City_AFC
+Wellington City,WCI,#f37736,#0000FF,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Wellington_United
+Western Suburbs,WES,#e4312a,black,#61ad7e,white,NA,NA,#bdb76b,red,/wiki/Western_Suburbs_FC_(New_Zealand)
+Caversham,CAV,red,white,red,white,NA,NA,#bdb76b,red,/wiki/Caversham_AFC
+Mount Albert-Ponsonby,MAP,#4e4efe,white,red,white,NA,NA,#bdb76b,red,/wiki/Mount_Albert-Ponsonby
+New Brighton,NBR,blue,white,red,white,NA,NA,#bdb76b,red,/wiki/New_Brighton_A.F.C._(New_Zealand)
+Wellington United,WDU,#f37736,#0000FF,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Wellington_United
+North Shore United,NSU,#ba3a44,#facf04,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/North_Shore_United
+Melville United,MEL,#cc171e,#20632d,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Melville_United
+Nelson United,NEL,#0157a2,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Nelson_United
+Dunedin City,DCI,yellow,blue,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Dunedin_City_AFC
+Courier Rangers,COU,#fff200,#038c40,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Courier_Rangers
+Waterside Karori,WAT,black,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Waterside_Karori
+Woolston WMC,WOO,#27663b,#21346e,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Cashmere_Technical
+Manurewa,MAN,#0000bb,#ffe315,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Manurewa_AFC
+Red Sox Manawatu,RED,#44bbff,#ff0000,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Red_Sox_Manawatu
+Rangers,RAN,#087792,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Rangers_A.F.C.
+Miramar Rangers,MIR,#002e5f,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Miramar_Rangers_AFC
+Takapuna City,TAK,#024d9e,#fef200,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Takapuna_AFC
+Napier City Rovers,NAP,#163889,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Napier_City_Rovers_FC
+East Coast Bays,ECB,#00589a,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/East_Coast_Bays_AFC
+Invercargill Thistle,INV,#78a27f,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Invercargill_Thistle
+Papatoetoe,PAP,black,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Papatoetoe_AFC
+Dunedin Technical,DTE,#880000,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Dunedin_Technical
+Auckland University,UNI,#e33c1c,#3c3c92,#FE9717,black,NA,NA,#bdb76b,red,/wiki/Uni-Mount_Bohemian_AFC
+Mount Maunganui,MMA,#0196da,#ddb73d,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Tauranga_City_AFC
+Hutt Valley United,HUT,green,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Hutt_Valley_United
+Waikato United,WKU,#cc171e,#20632d,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Melville_United
+Waitakere City,WTC,black,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Waitakere_City_FC
+New Plymouth Rangers,NPR,#075ee0,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/New_Plymouth_Rangers
+Central United,CEN,#003781,#e01e39,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Central_United_F.C.
+Wanganui East Athletic,WNG,red,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Whanganui_Athletic_FC
+Wellington Olympic,WOL,#102a98,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Wellington_Olympic_AFC
+Roslyn-Wakari,ROS,white,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Roslyn-Wakari_AFC
+Christchurch Technical,CTE,#27663b,#21346e,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Cashmere_Technical
+Nelson Suburbs,NSB,#80b4db,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Nelson_Suburbs_FC
+Team Otago,TOT,red,white,#fdf58f,black,NA,NA,#bdb76b,red,none
+Lower Hutt City,LHC,#FFFF00,#008800,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Lower_Hutt_City_AFC
+Metro,MET,#ee1c25,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Metro_FC_(New_Zealand)
+Southland United,STH,#880000,yellow,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Southland_United
+Northern Hearts,NHE,#ff0000,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Northern_Hearts_AFC
+Marlborough,MAR,blue,white,#fdf58f,black,NA,NA,#bdb76b,red,none
+University-Mount Wellington,UMW,#e33c1c,#3c3c92,#FE9717,black,NA,NA,#bdb76b,red,/wiki/Uni-Mount_Bohemian_AFC
+Woolston Technical,WTE,#27663b,#21346e,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Cashmere_Technical
+Tauranga City United,TCU,#0196da,#ddb73d,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Tauranga_City_AFC
+Canterbury United,CAN,red,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Canterbury_United_Dragons
+East Auckland,EAU,blue,white,#fdf58f,black,NA,NA,#bdb76b,red,none
+Auckland City,AUC,#0d1d41,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Auckland_City_FC
+Waitakere United,WTU,#ef4135,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Waitakere_United
+WaiBOP United,WBP,#1abaff,#eb353c,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/WaiBOP_United
+Team Wellington,TWE,#090400,#faa419,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Team_Wellington_FC
+Southern United,SOU,#283270,#edad27,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Southern_United_FC
+YoungHeart Manawatu,YHM,#198e54,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Manawatu_United
+Wanderers SC,U20,white,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/New_Zealand_men%27s_national_under-20_football_team
+Wellington Phoenix Reserves,WPR,#E3C922,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Wellington_Phoenix_FC_Reserves
+Tasman United,TAS,#99dbf7,#00234a,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Tasman_United
+Hamilton Wanderers,HAM,#26347b,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Hamilton_Wanderers_AFC
+Cashmere Technical,CAS,#27663b,#21346e,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Cashmere_Technical
+Selwyn United,SEL,#023787,#666f78,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Selwyn_United_FC
+Auckland United,AUN,#080808,#8a704e,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Auckland_United_FC
+Birkenhead United,BIR,#d42d25,white,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Birkenhead_United_AFC
+Petone,PET,#005a9c,black,#fdf58f,black,NA,NA,#bdb76b,red,/wiki/Petone_FC
